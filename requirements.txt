@@ -1,0 +1,18 @@
+# College Admission Agent — Python dependencies
+# IBM AICTE Internship 2026 — Problem Statement No. 4
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# --- Streamlit UI ---
+streamlit>=1.35.0
+
+# --- IBM watsonx.ai SDK (IBM Granite LLM) ---
+ibm-watsonx-ai>=1.1.2
+
+# --- RAG / Vector search ---
+scikit-learn>=1.4.0      # TF-IDF vectorizer + cosine similarity
+numpy>=1.26.0
+
+# --- Environment / config ---
+python-dotenv>=1.0.0

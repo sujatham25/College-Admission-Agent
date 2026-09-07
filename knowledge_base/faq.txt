@@ -1,0 +1,110 @@
+=== FREQUENTLY ASKED QUESTIONS (FAQs) ===
+
+--- GENERAL ADMISSION ---
+
+Q: When does the admission process start?
+A: The admission portal for undergraduate programmes opens on 15 January 2025. For postgraduate programmes, it opens on 1 February 2025.
+
+Q: Is there an offline application option?
+A: No. All applications must be submitted online through the admissions portal at https://admissions.democollege.edu (demo URL). No offline/manual applications are accepted.
+
+Q: Can I apply for more than one programme?
+A: Yes. You may apply for multiple programmes by submitting a separate application form and paying the application fee for each. However, you can hold only one confirmed seat at a time.
+
+Q: What is the application fee? Is it refundable?
+A: The application fee is ₹1,000 for General/OBC candidates and ₹500 for SC/ST candidates. The application fee is non-refundable under all circumstances.
+
+Q: I have not yet received my 10+2 results. Can I still apply?
+A: Yes. You may apply provisionally on the basis of your Class 11 final marks or predicted grades. However, your final admission will be confirmed only after you submit your Class 12 marksheet at the time of document verification. Your admission will be cancelled if you do not meet the minimum eligibility criteria.
+
+Q: Is there a minimum age requirement?
+A: Yes. For undergraduate programmes, you must be at least 17 years of age on or before 31st December of the admission year. There is no upper age limit.
+
+--- ENTRANCE EXAMS AND MERIT ---
+
+Q: Is JEE Main mandatory for B.Tech admission?
+A: Yes. A valid JEE Main score is mandatory for all B.Tech programmes. Admission is based on JEE Main percentile. There is no separate college entrance test for B.Tech.
+
+Q: What is the JEE Main cutoff for B.Tech CSE?
+A: The indicative JEE Main cutoff for B.Tech CSE based on the previous year is 85 percentile (General category). Cutoffs vary by category and are revised each year based on the applicant pool.
+
+Q: Is GATE mandatory for M.Tech?
+A: A valid GATE score (CS paper) is required for regular admission to M.Tech CSE. However, sponsored candidates (employed with 2+ years of experience and with employer sponsorship) may be admitted through a separate written test and interview without GATE.
+
+Q: What entrance exam is required for MBA?
+A: A valid score in CAT, MAT, XAT, or GMAT is required for MBA admission. The indicative CAT cutoff is 70 percentile overall with a minimum of 60 percentile in each section. Shortlisted candidates are called for Group Discussion (GD) and Personal Interview (PI).
+
+Q: Is there an entrance test for B.Sc Data Science?
+A: No. Admission to B.Sc Data Science is based on merit in 10+2. No separate entrance exam is required.
+
+Q: How is the merit list prepared for B.Com and BBA?
+A: The merit list for B.Com and BBA is prepared based on aggregate percentage in 10+2. No entrance exam is required.
+
+--- DOCUMENTS AND VERIFICATION ---
+
+Q: When do I need to submit original documents?
+A: Original documents are required only at the time of physical document verification on campus (25–30 June 2025 for UG; 5–10 July 2025 for PG). Do not send original documents by post. They are verified in person and returned on the same day.
+
+Q: What if my original documents have been misplaced or lost?
+A: In case of lost documents, you must obtain a duplicate from the issuing authority (school, board, or university) and submit a police complaint (FIR) copy along with it. The admissions committee will review such cases individually.
+
+Q: Is a migration certificate required?
+A: A migration certificate is required if you have studied under a different state board or university. Students from the same state board or university need only a Transfer Certificate.
+
+Q: My category certificate is older than 1 year. Is it acceptable?
+A: OBC (Non-Creamy Layer) certificates must be dated within 1 year of the application. SC and ST certificates issued by a competent authority are generally permanent, but if in doubt, obtain a fresh certificate.
+
+--- FEES AND PAYMENT ---
+
+Q: Can I pay the tuition fee in instalments?
+A: Yes. A semester-wise payment option is available on request from the Finance Office at the time of admission. The request must be submitted within 7 days of admission.
+
+Q: Is the caution deposit refundable?
+A: Yes. The caution deposit of ₹10,000 is fully refundable after successful completion of the programme, provided there are no pending dues or damages. It is refunded within 60 days of the course completion date.
+
+Q: What is the refund policy if I cancel my admission?
+A: Per the college refund policy (and in line with UGC guidelines), refund depends on the date of cancellation:
+   - Before commencement of classes: Full fee refund minus ₹1,000 processing charge.
+   - Within 15 days of class commencement: 80% of the tuition fee refunded.
+   - 16–30 days after class commencement: 50% refunded.
+   - After 30 days: No refund.
+   - Application fee and one-time enrolment fee are non-refundable.
+
+Q: Are there any hidden charges?
+A: No. All charges are listed in the fee structure. The fees shown are comprehensive for each programme. Any additional charges (such as for extra lab sessions, industrial visits, or certifications) will be communicated well in advance.
+
+--- SCHOLARSHIPS ---
+
+Q: Can I apply for a scholarship at the time of admission?
+A: Yes. Scholarship application forms are available on the admissions portal. Most college scholarships must be applied for within 30 days of taking admission.
+
+Q: Can I hold more than one scholarship?
+A: You can hold only one institutional (college-offered) scholarship at a time. However, government scholarships (such as NSP-based scholarships) may be availed in addition to an institutional scholarship.
+
+Q: When will scholarship results be declared?
+A: The Scholarship Committee announces results within 45 days of the scholarship application deadline.
+
+--- HOSTEL AND FACILITIES ---
+
+Q: Is hostel accommodation guaranteed?
+A: Hostel is available but not guaranteed; it is allotted on a first-come, first-served basis within the available capacity. Priority is given to outstation students. Apply for hostel at the time of accepting your admission offer.
+
+Q: Are there separate hostels for male and female students?
+A: Yes. Separate hostel facilities are available for male and female students with dedicated wardens and 24-hour security.
+
+Q: Is Wi-Fi available in the hostel?
+A: Yes. High-speed Wi-Fi is available in all hostel blocks. The internet is available 24 hours a day.
+
+--- CONTACT INFORMATION ---
+
+Q: Who do I contact for admission-related queries?
+A: Email: admissions@democollege.edu | Helpline: 1800-XXX-XXXX (demo number, toll-free) | Office hours: Monday–Saturday, 9:00 AM – 5:00 PM.
+
+Q: Who do I contact for fee-related queries?
+A: Email: finance@democollege.edu | Office: Finance & Accounts Department, Ground Floor, Admin Block.
+
+Q: Who do I contact for scholarship queries?
+A: Email: scholarships@democollege.edu | Scholarship Cell, 1st Floor, Admin Block. Office hours: Monday–Friday, 10:00 AM – 4:00 PM.
+
+Q: Who do I contact for technical issues with the admissions portal?
+A: Email: admissions.support@democollege.edu or call the portal helpline at 1800-XXX-XXXX (demo number).

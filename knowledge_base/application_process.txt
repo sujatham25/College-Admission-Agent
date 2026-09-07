@@ -1,0 +1,71 @@
+⚠️ SAMPLE/DEMO DATA — For demonstration purposes only. All process steps and portal details are fictitious.
+
+=== UNDERGRADUATE APPLICATION PROCESS ===
+
+Step 1: Register on the Admission Portal
+- Visit the official admissions portal at: https://admissions.democollege.edu (demo URL)
+- Click "New Registration" and provide your name, email address, and mobile number.
+- A One-Time Password (OTP) will be sent to your registered mobile number.
+- Verify the OTP to activate your account and receive your Application ID.
+
+Step 2: Fill the Online Application Form
+- Log in with your Application ID and password.
+- Fill in personal details: name, date of birth, gender, category (General/SC/ST/OBC/EWS), address.
+- Fill in academic details: 10+2 board, year of passing, subjects, marks obtained.
+- Enter entrance exam details: JEE Main application number and percentile (for B.Tech).
+- Select your preferred programme and up to three specialisation choices in order of preference.
+
+Step 3: Upload Required Documents
+- Upload scanned copies of all required documents (see the Required Documents section for the full list).
+- Documents must be in PDF or JPG format; maximum file size: 2 MB per document.
+- Ensure all documents are clearly legible before uploading.
+
+Step 4: Pay the Application Fee
+- Application fee: ₹1,000 for General/OBC candidates; ₹500 for SC/ST candidates.
+- Payment can be made online via Net Banking, Debit Card, Credit Card, or UPI.
+- Save the payment receipt; the Application ID becomes active only after successful payment.
+
+Step 5: Submit the Application
+- Review all entered information carefully before submitting.
+- Once submitted, the application form cannot be edited.
+- Download and save the completed application form PDF for your records.
+
+Step 6: Admit Card / Interview Call Letter
+- Shortlisted candidates will receive an admit card or interview call letter via registered email and SMS.
+- Admit cards for entrance-based programmes will be available for download from the portal 7 days before the test/interview date.
+
+Step 7: Entrance Test / GD-PI (Programme-specific)
+- B.Tech candidates: Admission based on JEE Main score; no separate college test.
+- MBA candidates: Group Discussion (GD) followed by Personal Interview (PI) at the college campus.
+- M.Sc Data Science: College Entrance Test (CET) at the campus.
+- PG Diploma programmes: Personal interview (may be conducted online).
+
+Step 8: Merit List Publication
+- Provisional merit list will be published on the admissions portal.
+- Students are allotted seats based on merit, category, and programme availability.
+- Three rounds of counselling/allotment will be conducted until all seats are filled.
+
+Step 9: Acceptance of Offer and Fee Payment
+- Selected candidates must accept the offer by logging into the portal.
+- Partial fee payment (seat booking amount) is required within 5 days of offer publication to confirm the seat.
+- Failure to pay within the deadline will result in forfeiture of the allocated seat.
+
+Step 10: Reporting and Document Verification
+- Candidates must report to the college campus on the date specified in the offer letter.
+- Bring all original documents for physical verification by the admissions committee.
+- After successful verification, the admission process is complete and the student is formally enrolled.
+
+=== POSTGRADUATE APPLICATION PROCESS ===
+
+- The process follows the same 10 steps as above.
+- Additional step for MBA: GD and PI are conducted after document screening.
+- M.Tech candidates with valid GATE score proceed directly to document verification; no separate test.
+- Sponsored candidates for M.Tech must submit a letter from their employer.
+
+=== IMPORTANT NOTES ===
+
+- Applications submitted after the deadline will not be considered under any circumstances.
+- Incomplete applications (missing documents or unpaid fee) will be rejected without notice.
+- Application fee is non-refundable.
+- Candidates can track their application status on the admissions portal at any time.
+- For technical issues with the portal, contact: admissions.support@democollege.edu or call the helpline at 1800-XXX-XXXX (demo number).

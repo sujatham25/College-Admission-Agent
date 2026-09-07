@@ -1,0 +1,71 @@
+This is a demonstration knowledge base created for the IBM AICTE Internship 2026 project. The following information is sample data for project testing and must not be used for real college admissions.
+
+=== UNDERGRADUATE ADMISSION ELIGIBILITY ===
+
+B.Tech (All Engineering Branches):
+- Must have passed 10+2 or equivalent examination from a recognised board.
+- Compulsory subjects: Physics, Chemistry, Mathematics (PCM).
+- Minimum aggregate: 60% in PCM subjects.
+- SC/ST/OBC candidates: 5% relaxation in minimum aggregate (55% required).
+- Age limit: Minimum 17 years as on 31st December of the admission year. No upper age limit.
+- Entrance exam: Valid JEE Main score is mandatory. Students shortlisted based on JEE Main percentile.
+- JEE Main cutoff (indicative, previous year): CSE - 85 percentile, ECE - 75 percentile, ME - 65 percentile, CE - 60 percentile.
+
+B.Sc Data Science:
+- Must have passed 10+2 with Mathematics as a compulsory subject.
+- Minimum aggregate: 55% in 10+2.
+- SC/ST/OBC candidates: 5% relaxation (50% required).
+- No entrance exam required; admission based on merit in 10+2.
+
+B.Com (Honours):
+- Must have passed 10+2 in any stream from a recognised board.
+- Minimum aggregate: 50% in 10+2.
+- SC/ST/OBC candidates: 5% relaxation (45% required).
+- No entrance exam; merit-based admission.
+
+BBA:
+- Must have passed 10+2 in any stream from a recognised board.
+- Minimum aggregate: 50% in 10+2.
+- SC/ST/OBC candidates: 5% relaxation (45% required).
+- No entrance exam; merit-based admission.
+
+=== POSTGRADUATE ADMISSION ELIGIBILITY ===
+
+M.Tech Computer Science and Engineering:
+- Must hold a B.Tech/B.E. degree in Computer Science, IT, or related engineering field from a recognised university.
+- Minimum aggregate: 60% in Bachelor's degree.
+- Valid GATE score in CS paper is required for regular admission.
+- Lateral entry without GATE is available for sponsored candidates (industry-sponsored), subject to written test and interview.
+
+MBA:
+- Must hold any Bachelor's degree from a recognised university.
+- Minimum aggregate: 50% in Bachelor's degree.
+- Valid entrance score: CAT/MAT/XAT/GMAT is mandatory.
+- CAT percentile cutoff (indicative, previous year): 70 percentile overall; 60 percentile sectional.
+- Group Discussion (GD) and Personal Interview (PI) are part of the selection process.
+
+M.Sc Data Science:
+- Must hold a B.Sc or B.Tech degree with Mathematics or Statistics as a subject.
+- Minimum aggregate: 55% in Bachelor's degree.
+- Admission through college entrance test (CET) conducted by the college.
+
+=== DIPLOMA PROGRAMME ELIGIBILITY ===
+
+Post-Graduate Diploma in AI & Machine Learning:
+- Any Bachelor's degree from a recognised university.
+- Basic knowledge of any programming language is preferred but not mandatory.
+- Admission through personal interview.
+
+Diploma in Digital Marketing:
+- Must have passed 10+2 in any stream.
+- No minimum percentage requirement.
+- Admission on a first-come, first-served basis.
+
+=== GENERAL ELIGIBILITY NOTES ===
+
+- All candidates must be citizens of India or hold a valid student visa.
+- Foreign nationals must provide equivalency certificate from Association of Indian Universities (AIU).
+- NRI seats (15% of total seats) are available for Non-Resident Indians with additional fee structure.
+- Physically challenged candidates with 40% or more disability are eligible for 3% horizontal reservation.
+- Candidates with pending results may apply provisionally; final admission is subject to meeting eligibility at the time of document verification.
+- Providing false information in the application form leads to immediate cancellation of admission.

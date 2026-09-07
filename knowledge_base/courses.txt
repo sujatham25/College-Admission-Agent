@@ -1,0 +1,87 @@
+⚠️ SAMPLE/DEMO DATA — For demonstration purposes only. All course names, codes, and details are fictitious.
+
+=== UNDERGRADUATE PROGRAMMES ===
+
+B.Tech Computer Science and Engineering (CSE)
+- Duration: 4 years (8 semesters)
+- Total Seats: 120
+- Specialisations available: Artificial Intelligence & Machine Learning, Data Science, Cybersecurity, Cloud Computing
+- Key subjects: Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Machine Learning, Web Technologies
+- Eligibility: 10+2 with Physics, Chemistry, Mathematics (PCM) with minimum 60% aggregate
+
+B.Tech Electronics and Communication Engineering (ECE)
+- Duration: 4 years (8 semesters)
+- Total Seats: 60
+- Key subjects: Analog Electronics, Digital Circuits, Signal Processing, Embedded Systems, VLSI Design
+- Eligibility: 10+2 with PCM with minimum 60% aggregate
+
+B.Tech Mechanical Engineering (ME)
+- Duration: 4 years (8 semesters)
+- Total Seats: 60
+- Key subjects: Engineering Mechanics, Thermodynamics, Fluid Mechanics, Manufacturing Processes, CAD/CAM
+- Eligibility: 10+2 with PCM with minimum 60% aggregate
+
+B.Tech Civil Engineering (CE)
+- Duration: 4 years (8 semesters)
+- Total Seats: 60
+- Key subjects: Structural Analysis, Geotechnical Engineering, Fluid Mechanics, Transportation Engineering, Surveying
+- Eligibility: 10+2 with PCM with minimum 60% aggregate
+
+B.Sc Data Science
+- Duration: 3 years (6 semesters)
+- Total Seats: 60
+- Key subjects: Statistics, Python Programming, Machine Learning, Data Visualisation, Big Data Analytics
+- Eligibility: 10+2 with Mathematics with minimum 55% aggregate
+
+B.Com (Honours)
+- Duration: 3 years (6 semesters)
+- Total Seats: 80
+- Key subjects: Financial Accounting, Business Law, Taxation, Cost Accounting, Economics
+- Eligibility: 10+2 in any stream with minimum 50% aggregate
+
+BBA (Bachelor of Business Administration)
+- Duration: 3 years (6 semesters)
+- Total Seats: 80
+- Key subjects: Business Management, Marketing, Human Resources, Finance, Entrepreneurship
+- Eligibility: 10+2 in any stream with minimum 50% aggregate
+
+=== POSTGRADUATE PROGRAMMES ===
+
+M.Tech Computer Science and Engineering
+- Duration: 2 years (4 semesters)
+- Total Seats: 30
+- Specialisations: Artificial Intelligence, Data Engineering, Network Security
+- Eligibility: B.Tech/B.E. in CSE or related field with minimum 60% aggregate; valid GATE score preferred
+
+MBA (Master of Business Administration)
+- Duration: 2 years (4 semesters)
+- Total Seats: 60
+- Specialisations: Finance, Marketing, Human Resources, Operations, Business Analytics
+- Eligibility: Any Bachelor's degree with minimum 50% aggregate; valid CAT/MAT/XAT score required
+
+M.Sc Data Science
+- Duration: 2 years (4 semesters)
+- Total Seats: 30
+- Key subjects: Advanced Machine Learning, Deep Learning, NLP, Statistical Modelling
+- Eligibility: B.Sc/B.Tech with Mathematics/Statistics with minimum 55% aggregate
+
+=== DIPLOMA PROGRAMMES ===
+
+Post-Graduate Diploma in AI & Machine Learning
+- Duration: 1 year
+- Total Seats: 40
+- Eligibility: Any Bachelor's degree with basic programming knowledge
+
+Diploma in Digital Marketing
+- Duration: 6 months
+- Total Seats: 50
+- Eligibility: 10+2 in any stream
+
+=== COURSE SELECTION GUIDANCE ===
+
+- Students interested in software, AI, or web development should consider B.Tech CSE or B.Sc Data Science.
+- Students interested in hardware and communication systems should consider B.Tech ECE.
+- Students with commerce background interested in management should consider BBA or B.Com.
+- Students aiming for management careers should consider MBA after completing any Bachelor's degree.
+- Students with engineering background seeking AI specialisation should consider M.Tech CSE with AI specialisation or M.Sc Data Science.
+- Contact the Academic Counselling Cell at counselling@democollege.edu for personalised course guidance.

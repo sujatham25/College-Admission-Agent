@@ -5,8 +5,6 @@
 
 ---
 
-## ⚠️ Demo Notice
-
 All college names, fees, eligibility criteria, dates, and scholarship details in the
 `knowledge_base/` folder are **fictitious sample data** created purely for demonstration.
 Do not use this information for actual college admissions.

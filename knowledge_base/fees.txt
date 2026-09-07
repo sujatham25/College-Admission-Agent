@@ -1,0 +1,105 @@
+=== UNDERGRADUATE PROGRAMME FEE STRUCTURE (Annual Fees) ===
+
+B.Tech Computer Science and Engineering (CSE):
+- Tuition Fee: ₹1,20,000 per year
+- Development Fee: ₹10,000 per year
+- Library and Laboratory Fee: ₹8,000 per year
+- Sports and Cultural Fee: ₹3,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee (General): ₹1,43,000
+- Total Annual Fee (SC/ST — 50% concession on tuition): ₹83,000
+
+B.Tech ECE / ME / CE:
+- Tuition Fee: ₹1,10,000 per year
+- Development Fee: ₹10,000 per year
+- Library and Laboratory Fee: ₹8,000 per year
+- Sports and Cultural Fee: ₹3,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee (General): ₹1,33,000
+- Total Annual Fee (SC/ST — 50% concession on tuition): ₹78,000
+
+B.Sc Data Science:
+- Tuition Fee: ₹60,000 per year
+- Development Fee: ₹6,000 per year
+- Library Fee: ₹3,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee (General): ₹71,000
+- Total Annual Fee (SC/ST — 50% concession on tuition): ₹41,000
+
+B.Com (Honours):
+- Tuition Fee: ₹45,000 per year
+- Development Fee: ₹5,000 per year
+- Library Fee: ₹2,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee (General): ₹54,000
+- Total Annual Fee (SC/ST — 50% concession on tuition): ₹31,500
+
+BBA:
+- Tuition Fee: ₹55,000 per year
+- Development Fee: ₹5,000 per year
+- Library Fee: ₹2,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee (General): ₹64,000
+- Total Annual Fee (SC/ST — 50% concession on tuition): ₹36,500
+
+=== POSTGRADUATE PROGRAMME FEE STRUCTURE (Annual Fees) ===
+
+M.Tech Computer Science and Engineering:
+- Tuition Fee: ₹90,000 per year
+- Development Fee: ₹8,000 per year
+- Laboratory Fee: ₹6,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee: ₹1,06,000
+
+MBA:
+- Tuition Fee: ₹1,50,000 per year
+- Development Fee: ₹10,000 per year
+- Library and Resource Fee: ₹8,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee: ₹1,70,000
+
+M.Sc Data Science:
+- Tuition Fee: ₹70,000 per year
+- Development Fee: ₹6,000 per year
+- Laboratory Fee: ₹4,000 per year
+- Examination Fee: ₹2,000 per year
+- Total Annual Fee: ₹82,000
+
+=== DIPLOMA PROGRAMME FEE STRUCTURE ===
+
+Post-Graduate Diploma in AI & Machine Learning:
+- Total Programme Fee: ₹60,000 (one-time, for the full 1-year programme)
+- Payable in two instalments: ₹35,000 at admission + ₹25,000 at the start of second semester.
+
+Diploma in Digital Marketing:
+- Total Programme Fee: ₹20,000 (one-time, for the full 6-month programme)
+- Payable fully at the time of admission.
+
+=== ONE-TIME FEES (PAYABLE AT ADMISSION ONLY) ===
+
+- Admission/Enrolment Fee: ₹5,000 (all programmes)
+- Caution Deposit (refundable): ₹10,000 (all programmes; refunded after course completion)
+- Identity Card Fee: ₹200
+- Student Welfare Fund: ₹500
+
+=== NRI / INTERNATIONAL STUDENT FEES ===
+
+- B.Tech programmes: USD 5,000 per year
+- MBA: USD 6,000 per year
+- Other programmes: 3× the domestic tuition fee per year
+
+=== HOSTEL FEES (OPTIONAL) ===
+
+- Standard Room (Triple Sharing): ₹40,000 per year
+- Deluxe Room (Double Sharing): ₹55,000 per year
+- Mess Charges (compulsory for hostel residents): ₹28,000 per year
+
+=== FEE PAYMENT NOTES ===
+
+- Annual fees are payable at the start of each academic year.
+- Semester-wise payment option is available upon request from the Finance Office.
+- Fee payment is accepted online (portal) or by DD in favour of "Demo College of Technology" payable at [City].
+- Late payment attracts a penalty of ₹100 per day after the due date.
+- The fee structure is subject to revision each academic year as approved by the Board of Governors.
+- Fee once paid is not refundable except the caution deposit, per the college refund policy.
+- For fee-related queries: finance@democollege.edu

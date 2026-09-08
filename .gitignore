@@ -1,0 +1,69 @@
+# .gitignore
+# College Admission Agent — Git ignore rules
+
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+.installed.cfg
+lib/
+lib64/
+MANIFEST
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+env/
+ENV/
+.venv/
+.env/
+venv.bak/
+
+# ── Environment variables / secrets ─────────────────────────────────────────
+.env
+*.env
+secrets.toml
+
+# ── Streamlit ────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Jupyter Notebooks ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── HuggingFace / model cache ────────────────────────────────────────────────
+# models/
+# .cache/
+
+# ── IDEs and editors ─────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Test artefacts ────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# ── Distribution / packaging ─────────────────────────────────────────────────
+*.tar.gz
+*.zip
+
+# IBM watsonx credentials
+.env
